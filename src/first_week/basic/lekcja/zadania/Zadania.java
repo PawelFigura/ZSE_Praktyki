@@ -5,12 +5,14 @@ public class Zadania {
         //zadanie 1
         int myint1 = 6; //liczba całkowita 6
         int myint2 = -39; //lizcba całkowita -39
+        int myint3 = 1002;
 
         System.out.println("Liczba a: "+myint1);
         System.out.println("Liczba b: "+myint2);
+        System.out.println("Liczba c: "+myint3);
 
         //dowawanie
-        int suma=myint1+myint2;
+        int suma=myint1+myint2+myint3;
         System.out.println("Dodawanie to: "+suma);
 
         //odejmowanie zminnych
@@ -22,8 +24,10 @@ public class Zadania {
         System.out.println("Mnorzenie to: "+mnorzenie);
 
         //dzielenie
-        int dzielenie=myint1/myint2;
+        int dzielenie=myint2/myint1;
         System.out.println("Dzielenie to: "+dzielenie);
+        double podzial_int = myint3/myint1;
+        System.out.println(podzial_int);
 
         double mydouble =1.65;
         double mydoublea =1.89;
