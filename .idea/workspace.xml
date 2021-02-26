@@ -25,8 +25,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Zadania">
+  <component name="RunManager" selected="Application.zadania_if">
     <configuration name="Zadania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="first_week.basic.lekcja.zadania.Zadania" />
       <module name="ZSE_Praktyki" />
@@ -53,8 +54,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lekcja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first_week.basic.lekcja.nowe.lekcja" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="first_week.basic.lekcja.nowe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadania_if" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first_week.basic.lekcja.zadania_if.zadania_if" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="first_week.basic.lekcja.zadania_if.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zadania_if" />
+        <item itemvalue="Application.lekcja" />
         <item itemvalue="Application.Zadania" />
         <item itemvalue="Application.basic" />
       </list>
