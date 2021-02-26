@@ -1,4 +1,4 @@
-package first_week.basic.lekcja.zadania;
+package first_week.zadania;
 
 public class Zadania {
     public static void main(String[] args) {

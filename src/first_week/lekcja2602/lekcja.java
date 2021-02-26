@@ -1,4 +1,4 @@
-package first_week.basic.lekcja.nowe;
+package first_week.lekcja2602;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package first_week.basic.lekcja.zadania_if;
+package first_week.zadania_if;
 
 import java.util.Scanner;
 

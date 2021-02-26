@@ -55,11 +55,11 @@
       </method>
     </configuration>
     <configuration name="lekcja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.basic.lekcja.nowe.lekcja" />
+      <option name="MAIN_CLASS_NAME" value="first_week.basic.lekcja.lekcja2602.lekcja" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_week.basic.lekcja.nowe.*" />
+          <option name="PATTERN" value="first_week.basic.lekcja.lekcja2602.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

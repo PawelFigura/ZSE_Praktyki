@@ -1,4 +1,4 @@
-package first_week.basic.lekcja;
+package first_week;
 
 public class basic {
     public static void main(String[] args) {
