@@ -27,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.zadania_if">
+  <component name="RunManager" selected="Application.zadania">
     <configuration name="Zadania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="first_week.basic.lekcja.zadania.Zadania" />
       <module name="ZSE_Praktyki" />
@@ -41,12 +41,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.basic.lekcja.basic" />
+    <configuration name="lekcja (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secend_week.lekcja_pętle.lekcja" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_week.basic.lekcja.*" />
+          <option name="PATTERN" value="secend_week.lekcja_pętle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,6 +60,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="first_week.basic.lekcja.lekcja2602.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secend_week.pętle_zadania.zadania" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secend_week.pętle_zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,10 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zadania" />
+        <item itemvalue="Application.lekcja (1)" />
         <item itemvalue="Application.zadania_if" />
         <item itemvalue="Application.lekcja" />
         <item itemvalue="Application.Zadania" />
-        <item itemvalue="Application.basic" />
       </list>
     </recent_temporary>
   </component>
