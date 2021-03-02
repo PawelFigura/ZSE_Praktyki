@@ -27,13 +27,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.zadania">
-    <configuration name="Zadania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.basic.lekcja.zadania.Zadania" />
+  <component name="RunManager" selected="Application.arrays_zadania">
+    <configuration name="arrays_lekcja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secend_week.arrays.arrays_lekcja" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_week.basic.lekcja.zadania.*" />
+          <option name="PATTERN" value="secend_week.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -41,12 +41,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lekcja (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secend_week.lekcja_pętle.lekcja" />
+    <configuration name="arrays_zadania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secend_week.arrays.arrays_zadania" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secend_week.lekcja_pętle.*" />
+          <option name="PATTERN" value="secend_week.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lekcja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.basic.lekcja.lekcja2602.lekcja" />
+    <configuration name="basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first_week.basic" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_week.basic.lekcja.lekcja2602.*" />
+          <option name="PATTERN" value="first_week.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadania_if" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.basic.lekcja.zadania_if.zadania_if" />
+    <configuration name="zadania_if (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first_week.zadania_if.zadania_if" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_week.basic.lekcja.zadania_if.*" />
+          <option name="PATTERN" value="first_week.zadania_if.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrays_zadania" />
+        <item itemvalue="Application.arrays_lekcja" />
+        <item itemvalue="Application.zadania_if (1)" />
+        <item itemvalue="Application.basic" />
         <item itemvalue="Application.zadania" />
-        <item itemvalue="Application.lekcja (1)" />
-        <item itemvalue="Application.zadania_if" />
-        <item itemvalue="Application.lekcja" />
-        <item itemvalue="Application.Zadania" />
       </list>
     </recent_temporary>
   </component>
