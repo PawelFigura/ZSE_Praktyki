@@ -38,7 +38,7 @@ public class arrays_zadania {
         Integer[] liczby={345,5462,3456,23,53,-123,435,23,3,-346,33,-94,0,2,6,8643,30,12,578,-1};
         System.out.println("Liczby przed zamianą: "+Arrays.toString(liczby));
         Arrays.sort(liczby,10,20);
-        Arrays.sort(liczby,0,9,Collections.reverseOrder());
+        Arrays.sort(liczby,0,10,Collections.reverseOrder());
         System.out.println("Liczby po zamianianie: "+Arrays.toString(liczby));
 
 

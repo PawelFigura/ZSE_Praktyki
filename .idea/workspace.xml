@@ -27,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.arrays_zadania">
+  <component name="RunManager" selected="Application.multiArrays_zadania">
     <configuration name="arrays_lekcja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="secend_week.arrays.arrays_lekcja" />
       <module name="ZSE_Praktyki" />
@@ -67,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secend_week.pętle_zadania.zadania" />
+    <configuration name="multiArrays_lekcja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secend_week.multiArrays.multiArrays_lekcja" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secend_week.pętle_zadania.*" />
+          <option name="PATTERN" value="secend_week.multiArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadania_if (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.zadania_if.zadania_if" />
+    <configuration name="multiArrays_zadania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secend_week.multiArrays.multiArrays_zadania" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_week.zadania_if.*" />
+          <option name="PATTERN" value="secend_week.multiArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.multiArrays_zadania" />
+        <item itemvalue="Application.multiArrays_lekcja" />
         <item itemvalue="Application.arrays_zadania" />
-        <item itemvalue="Application.arrays_lekcja" />
-        <item itemvalue="Application.zadania_if (1)" />
         <item itemvalue="Application.basic" />
-        <item itemvalue="Application.zadania" />
+        <item itemvalue="Application.arrays_lekcja" />
       </list>
     </recent_temporary>
   </component>
