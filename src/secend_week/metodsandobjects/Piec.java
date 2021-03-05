@@ -81,7 +81,7 @@ interface piecPiekacz{
 
                     break;
                 default:
-                    System.out.println("Matma powyżej 2 przeraża :0");
+                    System.out.println("Matma powyżej 2 przeraża :0 ");
             }
         }
     }
