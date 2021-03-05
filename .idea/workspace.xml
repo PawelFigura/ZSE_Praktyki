@@ -27,13 +27,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.multiArrays_zadania">
-    <configuration name="arrays_lekcja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secend_week.arrays.arrays_lekcja" />
+  <component name="RunManager" selected="Application.main">
+    <configuration name="Piec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secend_week.metodsandobjects.Piec" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secend_week.arrays.*" />
+          <option name="PATTERN" value="secend_week.metodsandobjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -41,12 +41,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrays_zadania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secend_week.arrays.arrays_zadania" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secend_week.ćwiczenia.main" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secend_week.arrays.*" />
+          <option name="PATTERN" value="secend_week.ćwiczenia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.basic" />
+    <configuration name="metody_lekcja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secend_week.metodsandobjects.metody_lekcja" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_week.*" />
+          <option name="PATTERN" value="secend_week.metodsandobjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="multiArrays_lekcja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secend_week.multiArrays.multiArrays_lekcja" />
+    <configuration name="pralkosuszrka_lekcja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secend_week.metodsandobjects.pralkosuszrka_lekcja" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secend_week.multiArrays.*" />
+          <option name="PATTERN" value="secend_week.metodsandobjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="multiArrays_zadania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secend_week.multiArrays.multiArrays_zadania" />
+    <configuration name="zadania_if" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first_week.zadania_if.zadania_if" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secend_week.multiArrays.*" />
+          <option name="PATTERN" value="first_week.zadania_if.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.multiArrays_zadania" />
-        <item itemvalue="Application.multiArrays_lekcja" />
-        <item itemvalue="Application.arrays_zadania" />
-        <item itemvalue="Application.basic" />
-        <item itemvalue="Application.arrays_lekcja" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.zadania_if" />
+        <item itemvalue="Application.Piec" />
+        <item itemvalue="Application.pralkosuszrka_lekcja" />
+        <item itemvalue="Application.metody_lekcja" />
       </list>
     </recent_temporary>
   </component>
