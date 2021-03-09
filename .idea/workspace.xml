@@ -27,13 +27,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.main">
-    <configuration name="Piec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secend_week.metodsandobjects.Piec" />
+  <component name="RunManager" selected="Application.zadanie7">
+    <configuration name="Vehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.pl.praktyki.java.dziedziczenie_kodu.Vehicle" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secend_week.metodsandobjects.*" />
+          <option name="PATTERN" value="third_week.pl.praktyki.java.dziedziczenie_kodu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -41,12 +41,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secend_week.ćwiczenia.main" />
+    <configuration name="dziedziczenieKodu$Vehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.pl.praktyki.java.dziedziczenie_kodu.dziedziczenieKodu$Vehicle" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secend_week.ćwiczenia.*" />
+          <option name="PATTERN" value="third_week.pl.praktyki.java.dziedziczenie_kodu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="metody_lekcja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secend_week.metodsandobjects.metody_lekcja" />
+    <configuration name="dziedziczenieKodu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.pl.praktyki.java.dziedziczenie_kodu.dziedziczenieKodu" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secend_week.metodsandobjects.*" />
+          <option name="PATTERN" value="third_week.pl.praktyki.java.dziedziczenie_kodu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pralkosuszrka_lekcja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secend_week.metodsandobjects.pralkosuszrka_lekcja" />
+    <configuration name="zadanie6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.pl.praktyki.java.zadania_0803.zadania.zadanie6" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secend_week.metodsandobjects.*" />
+          <option name="PATTERN" value="third_week.pl.praktyki.java.zadania_0803.zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadania_if" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_week.zadania_if.zadania_if" />
+    <configuration name="zadanie7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="third_week.pl.praktyki.java.zadania_0803.zadania.zadanie7" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_week.zadania_if.*" />
+          <option name="PATTERN" value="third_week.pl.praktyki.java.zadania_0803.zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.zadania_if" />
-        <item itemvalue="Application.Piec" />
-        <item itemvalue="Application.pralkosuszrka_lekcja" />
-        <item itemvalue="Application.metody_lekcja" />
+        <item itemvalue="Application.zadanie7" />
+        <item itemvalue="Application.dziedziczenieKodu$Vehicle" />
+        <item itemvalue="Application.Vehicle" />
+        <item itemvalue="Application.zadanie6" />
+        <item itemvalue="Application.dziedziczenieKodu" />
       </list>
     </recent_temporary>
   </component>
