@@ -106,7 +106,7 @@ public class salon {
                                System.out.println("Samochód " + (i + 1) + ":\n" + listaAut.get(i));
                            }
                            System.out.println("\nKtóry samochoód chcesz usunąć? (*marka model kolor NumerRejestracyjny*)");
-                           Scanner scanner = new Scanner(System.in);//ogl wiem że 2 raz skaner ale jak nie ma go tu to mi nie czyta tego na początku xD
+                           Scanner scanner = new Scanner(System.in);//ogl wiem że 2 raz skaner ale jak nie ma go tu to mi nie czyta tego  na początku xD
                            String string = scanner.nextLine();
                            listaAut.remove(string);
                            int noweDl = listaAut.toArray().length;
@@ -216,18 +216,6 @@ public class salon {
 
                                 }
                             }
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
 

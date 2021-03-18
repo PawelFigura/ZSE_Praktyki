@@ -18,6 +18,5 @@ public class Menu {
         System.out.println("11. Wyświetl wszytkie auta");
         System.out.println("12. Wyjscie");
         System.out.print("Wybór: ");
-
     }
 }
